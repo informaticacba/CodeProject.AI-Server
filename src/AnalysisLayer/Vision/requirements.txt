@@ -7,7 +7,7 @@ Pillow           # Installing Pillow, a Python Image Library
 SciPy            # Installing SciPy, a library for mathematics, science, and engineering
 PyYAML           # Installing PyYAML, a library for reading configuration files
 
-torch==1.10.1		# Installing PyTorch, for Tensor computation and Deep neural networks
+torch==1.13.1		# Installing PyTorch, for Tensor computation and Deep neural networks
 torchvision==0.11.2 # Installing TorchVision, for Computer Vision based AI
 
 ## These to be removed (not needed for inference)

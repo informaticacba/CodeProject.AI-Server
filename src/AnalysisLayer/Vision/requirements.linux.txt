@@ -8,7 +8,7 @@ SciPy            # Installing SciPy, a library for mathematics, science, and eng
 PyYAML           # Installing PyYAML, a library for reading configuration files
 
 ## Specific versions that match the models we're using. 
-Torch==1.10.2        # Installing Torch, for Tensor computation and Deep neural networks
+Torch==1.13.1        # Installing Torch, for Tensor computation and Deep neural networks
 TorchVision==0.11.3  # Installing TorchVision, for Computer Vision based AI
 
 ## These to be removed (not needed for inference)
